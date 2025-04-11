@@ -1,7 +1,7 @@
 <p align="center">
   <img src="icocode.png" width="100" height="100" alt="icocode">
 </p>
-<h1 align="center">Shark Zubat</h1>
+<h1 align="center">TheSharkGuy</h1>
 
 Hi, I'm TheSharkGuy, a passionate developer working on various projects involving Python, HTML, CSS, and JavaScript.
 
