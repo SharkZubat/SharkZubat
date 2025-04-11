@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Shark Zubat</h1>
 
-Hi, I'm Shark Zubat, a passionate developer working on various projects involving Python, HTML, CSS, and JavaScript.
+Hi, I'm TheSharkGuy, a passionate developer working on various projects involving Python, HTML, CSS, and JavaScript.
 
 ## Projects
 
