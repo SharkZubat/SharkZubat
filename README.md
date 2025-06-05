@@ -1,8 +1,6 @@
-![image1](image1)
-
 ## Welcome!
 
-This is the beginning of something better. I'm SharkZubat, and this is my corner of the GitHub universe.
+This is the beginning of something better. I'm TheSharkGuy, and this is my corner of the GitHub universe.
 
 ### My Programming Skills
 
